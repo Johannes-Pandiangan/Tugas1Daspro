@@ -1,0 +1,20 @@
+program tugas1;
+uses crt;
+var
+   jalan,no,kota,kode: string;
+begin
+clrscr;
+    write('Jalan: '); readln(jalan);
+    write('No: '); readln(no);
+    write('Kota: '); readln(kota);
+    write('Kode pos: '); readln(kode);
+    Write('Alamat:Jalan ');
+    write(jalan);
+    write(' No.');
+    write(no);
+    write(' ');
+    write(kota);
+    write(' ');
+    write(kode);
+    readln;
+end.
