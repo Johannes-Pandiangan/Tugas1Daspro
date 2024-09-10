@@ -1,0 +1,10 @@
+mulai
+input Nama
+input Nim
+input Kom
+input nilai tugas,uts,uas
+hitng nilai mahasiswa= (tugas+uts+uas)/3
+tampilkan Nama,Nim,Kom
+tampilkan nilai mahasiswa
+tampilkan 'semester ini telah selesai'
+selesai
