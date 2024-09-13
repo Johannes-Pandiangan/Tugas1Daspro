@@ -1,10 +1,11 @@
-mulai
-input Nama
-input Nim
-input Kom
-input nilai tugas,uts,uas
-hitng nilai mahasiswa= (tugas+uts+uas)/3
-tampilkan Nama,Nim,Kom
-tampilkan nilai mahasiswa
-tampilkan 'semester ini telah selesai'
-selesai
+Algoritma cara memasak nasi
+1.siapkan beras pada wadah
+2.tambahkan air secukupnya
+3.cuci beras dengan mengaduk air dan beras
+4.lalu buang airnya
+5.lakukan langkah 2-4 sebanyak 3 kali
+6.tambahkan air secukupnya
+7.masukkan wadah berisi beras tersebut ke dalam rice cooker
+8.sambungkan rice cooker ke aliran listrik 
+9.jangan lupa tekan tombol cooking(memasak) pada rice cooker
+10.tunggu beberapa saat dan nasi siap disajikan
